@@ -1,5 +1,4 @@
-
-![je_logo](https://user-images.githubusercontent.com/11275799/113373508-b54d3900-93b6-11eb-97ab-82735b831b37.png)
+![je_logo_2](https://user-images.githubusercontent.com/11275799/113373697-2987dc80-93b7-11eb-8659-130beee840ab.png)
 
 <h2> Hi there! I'm Jess 🦎 </h2>
 
