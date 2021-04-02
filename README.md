@@ -1,4 +1,4 @@
-![je_logo_2](https://user-images.githubusercontent.com/11275799/113373697-2987dc80-93b7-11eb-8659-130beee840ab.png)
+[Lialis.pdf](https://github.com/jehfenker/jehfenker/files/6247358/Lialis.pdf)
 
 <h2> Hi there! I'm Jess 🦎 </h2>
 
