@@ -4,6 +4,9 @@
 <br>
 <br>
 
+![je_logo](https://user-images.githubusercontent.com/11275799/113373508-b54d3900-93b6-11eb-97ab-82735b831b37.png)
+
+
 I am a postdoctoral researcher fellow in the department of Ecology and Evolutionary Biology
 at the University of Michigan, at Lacey Knowles’ lab. I am currently living in Australia,
 where I completed my Ph.D. at the Australian National University, at Craig Moritz’s lab.
