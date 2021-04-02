@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2> Hi there! I'm Jess 🦎 </h2>
 
-<!--
-**jehfenker/jehfenker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://jessicafenker.com/">jessicafenker.com</a> | <a href="https://scholar.google.com/citations?user=x3R-PWkAAAAJ&hl=en&oi=ao">google scholar profile</a>
+<br>
+<br>
 
-Here are some ideas to get you started:
+I am a postdoctoral researcher fellow in the department of Ecology and Evolutionary Biology
+at the University of Michigan, at Lacey Knowles’ lab. I am currently living in Australia,
+where I completed my Ph.D. at the Australian National University, at Craig Moritz’s lab.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my research investigates the evolutionary, ecological, morphological and biogeographic 
+patterns that generate biodiversity, going from micro to macroevolution, mainly using reptiles as a research model.
+
+I am a proud member of two Brazilian women in STEM initiatives, <a href="https://herpeto2herpetologas.wixsite.com/-h2h"> H2H (Herpetologia segundo herpetólogas)</a> and <a href="https://www.instagram.com/kunhaase/?hl=en"> Rede Kunhã Asé </a>,
+aiming to promote equity and value the role of Women in Science.
+
+Any questions? Do you want to chat? Feel free to <a href="jehfenker@gmail.com">contact me by email</a>                            
