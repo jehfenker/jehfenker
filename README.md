@@ -1,4 +1,6 @@
-[Lialis.pdf](https://github.com/jehfenker/jehfenker/files/6247358/Lialis.pdf)
+![Lialis-01](https://user-images.githubusercontent.com/11275799/113374334-9b145a80-93b8-11eb-9b5b-98a42a9aa859.png)
+
+
 
 <h2> Hi there! I'm Jess 🦎 </h2>
 
