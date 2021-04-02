@@ -1,4 +1,4 @@
-![Lialis2-01](https://user-images.githubusercontent.com/11275799/113374435-df9ff600-93b8-11eb-97f7-0b480724d961.png)
+![Lialis3-01](https://user-images.githubusercontent.com/11275799/113374625-34dc0780-93b9-11eb-82ad-ebf86de56276.png)
 
 <h2> Hi there! I'm Jess 🦎 </h2>
 
