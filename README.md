@@ -1,10 +1,11 @@
+
+![je_logo](https://user-images.githubusercontent.com/11275799/113373508-b54d3900-93b6-11eb-97ab-82735b831b37.png)
+
 <h2> Hi there! I'm Jess 🦎 </h2>
 
 <a href="https://jessicafenker.com/">jessicafenker.com</a> | <a href="https://scholar.google.com/citations?user=x3R-PWkAAAAJ&hl=en&oi=ao">google scholar profile</a>
 <br>
 <br>
-
-![je_logo](https://user-images.githubusercontent.com/11275799/113373508-b54d3900-93b6-11eb-97ab-82735b831b37.png)
 
 
 I am a postdoctoral researcher fellow in the department of Ecology and Evolutionary Biology
