@@ -6,10 +6,17 @@
 <br>
 <br>
 
+I am currently working at the Atlas of Living Australia (CSIRO), a collaborative, digital, 
+open infrastructure that pulls together Australian biodiversity data from multiple sources, 
+making it accessible and reusable. I work in partnership with EcoCommons, a platform for digital 
+modelling and analysis needs on ecological and environmental research, currently in construction. 👩🏽‍💻
 
-I am a postdoctoral researcher fellow in the department of Ecology and Evolutionary Biology
+I am also currently associated with the Australian National University (ANU), collaborating with the 
+Moritz and Cardillo labs. 🧬
+
+I completed a postdoctoral in the department of Ecology and Evolutionary Biology
 at the University of Michigan, at Lacey Knowles’ lab. I am currently living in Australia,
-where I completed my Ph.D. at the Australian National University, at Craig Moritz’s lab. 👩🏽‍💻
+where I completed my Ph.D. at the Australian National University, at Craig Moritz’s lab. 👩🏻‍🔬
 
 Most of my research investigates the evolutionary, ecological, morphological and biogeographic 
 patterns that generate biodiversity, going from micro to macroevolution, mainly using reptiles as a research model. 🦎
